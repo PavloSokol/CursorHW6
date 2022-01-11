@@ -16,7 +16,7 @@ public class main {
                 i--;
             }
         }
-        System.out.println(listOfIntegers);
+        System.out.println("Результат після видалення всіх чисел кратних трьом:"+listOfIntegers);
     }
 
 }
